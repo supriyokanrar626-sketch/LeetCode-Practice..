@@ -3,7 +3,7 @@ public:
     bool detectCapitalUse(string word) {
         int count = 0 ;
         for(int i=0; i<word.size();i++){
-            if(isupper(word[i])){
+            if(isupper(word[i])){ // java hole Character.isUpperCase(word.charAt(i))  kortam..
                 count++ ;
             }
         }
