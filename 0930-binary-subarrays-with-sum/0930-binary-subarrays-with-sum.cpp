@@ -12,7 +12,7 @@ public:
                 sum -= nums[i]; // window sum > k hole left theke element bad dite thakbo...
                 i++ ;
             }
-            count += j-i ; // mane right fixed rekhe , left theke right porjonto jotogulo sure point paoa jai , sob gulo valid.. 
+            count += j-i ; // mane right fixed rekhe , left theke right porjonto jotogulo sure point paoa jai , sob gulo valid.. j already ++ hoi jacche tai..+1 lagbe na..
         }
         return count ;  // loop ses e amader kache sum <= k ar total count ache..
     }
