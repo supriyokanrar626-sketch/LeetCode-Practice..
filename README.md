@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
