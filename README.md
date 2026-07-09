@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 ## Rolling Hash
