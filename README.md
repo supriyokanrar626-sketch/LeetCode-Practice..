@@ -101,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
