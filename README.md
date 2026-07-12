@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
