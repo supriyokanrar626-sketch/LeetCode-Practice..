@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 ## Enumeration
 |  |
