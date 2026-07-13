@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
