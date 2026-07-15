@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
