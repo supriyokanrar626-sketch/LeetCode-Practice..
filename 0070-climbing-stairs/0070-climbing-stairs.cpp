@@ -9,7 +9,7 @@ public:
         int f1 = 2 ;
         int f2 = 1 ;
         int curr = 0 ;
-        for(int i=2; i<n; i++){
+        for(int i=3; i<=n; i++){
             curr = f1 + f2 ;
             f2 = f1 ;
             f1 = curr ;
