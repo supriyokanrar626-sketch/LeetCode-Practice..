@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3312-sorted-gcd-pair-queries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
