@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0090-subsets-ii) |
