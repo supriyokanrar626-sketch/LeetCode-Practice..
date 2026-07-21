@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0461-hamming-distance) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Rolling Hash
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1260-shift-2d-grid) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
