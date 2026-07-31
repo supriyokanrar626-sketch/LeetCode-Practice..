@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3536-maximum-product-of-two-digits) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
