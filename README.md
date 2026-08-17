@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -365,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
