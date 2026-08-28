@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0877-stone-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
