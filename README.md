@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0520-detect-capital) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0115-distinct-subsequences) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0877-stone-game) |
