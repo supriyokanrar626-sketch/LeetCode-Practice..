@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1563-stone-game-v) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2029-stone-game-ix) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1563-stone-game-v) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -447,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
