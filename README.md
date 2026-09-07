@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2029-stone-game-ix) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
