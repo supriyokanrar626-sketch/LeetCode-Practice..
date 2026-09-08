@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0520-detect-capital) |
+| [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1510-stone-game-iv) |
