@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1260-shift-2d-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1260-shift-2d-grid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
