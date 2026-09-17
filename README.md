@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1872-stone-game-viii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3312-sorted-gcd-pair-queries) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
