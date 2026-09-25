@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0090-subsets-ii) |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
