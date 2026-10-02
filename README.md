@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0344-reverse-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0115-distinct-subsequences) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0089-gray-code) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
