@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0115-distinct-subsequences) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1301-number-of-paths-with-max-score) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
