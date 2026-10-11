@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2685-count-the-number-of-complete-components) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0032-longest-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1021-remove-outermost-parentheses) |
@@ -545,10 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
