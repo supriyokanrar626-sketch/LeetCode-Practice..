@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -547,11 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
