@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0191-number-of-1-bits) |
 ## Two Pointers
@@ -563,12 +566,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
