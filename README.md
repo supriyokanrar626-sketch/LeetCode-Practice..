@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -640,9 +643,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
