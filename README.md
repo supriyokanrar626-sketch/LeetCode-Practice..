@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0930-binary-subarrays-with-sum) |
 | [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1331-rank-transform-of-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/2333-minimum-sum-of-squared-difference) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1288-remove-covered-intervals) |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
@@ -661,4 +667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
