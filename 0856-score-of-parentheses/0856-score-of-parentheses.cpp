@@ -1,17 +1,17 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        int ans = 0, bal = 0;
-        for (int i = 0; i < s.length(); ++i) {
+        int score = 0, depth = 0;
+        for (int i = 0; i < s.size(); ++i) {
             if (s[i] == '(') {
-                bal++;
+                ++depth;
             } else {
-                bal--;
+                --depth;
                 if (s[i - 1] == '(') {
-                    ans += 1 << bal;
+                    score += 1 << depth;
                 }
             }
         }
-        return ans;
+        return score;
     }
 };
