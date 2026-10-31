@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1021-remove-outermost-parentheses) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
