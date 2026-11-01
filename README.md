@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0835-image-overlap) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0390-elimination-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/supriyokanrar626-sketch/LeetCode-Practice../tree/master/0836-rectangle-overlap) |
